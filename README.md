@@ -1,3 +1,4 @@
+![logo](https://github.com/EshanDhankani/EshanDhankani/blob/main/banner-image.png)
 <h1 align="center">Hi 👋, I'm Eshan Kumar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
