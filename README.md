@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eshan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/the-eshan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-kumar" height="30" width="40" /></a>
 <a href="https://fb.com/eshan-dhankani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan-dhankani" height="30" width="40" /></a>
-<a href="https://instagram.com/eshan-dhankani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan-dhankani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eshandhankani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan-dhankani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
