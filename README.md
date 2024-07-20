@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-kumar" /> </p>
 
  👨‍🎓 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
- 💞️ I’m looking to collaborate on MERN stack related projects (Current skill stack)
+ 💞️ I’m looking to collaborate on MERN stack related projects (Current skill stack)<br>
  📫 How to reach me **eshandhankani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
