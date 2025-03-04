@@ -1,13 +1,13 @@
 ![logo](https://github.com/EshanDhankani/EshanDhankani/blob/main/banner-image.png)
 <h1 align="center">Hi 👋, I'm Eshan Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate React Native Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-kumar" /> </p>
 
 
- - 🎓 I'm a <b>Final year CS</b> student at <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
- - 💞️ I’m looking to collaborate on MERN stack related projects (Current skill stack)<br>
+ - 🎓 I'm a fresh Computer Science graduate <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+ - 💞️ I’m looking to collaborate on React Native (Current skill stack)<br>
  - 📫 How to reach me **eshandhankani@gmail.com**
 
 
