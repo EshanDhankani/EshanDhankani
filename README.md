@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-kumar" /> </p>
 
 
- - 🎓 I'm a fresh Computer Science graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
+ - 🎓 I'm a Recent <b>Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b>.</a><br>
  - 💞️ I’m looking to collaborate on React Native (Current skill stack)<br>
  - 📫 How to reach me **eshandhankani@gmail.com**
 
