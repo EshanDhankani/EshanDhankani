@@ -11,7 +11,7 @@
 • 👨‍🎓 I’m <b>Eshan Kumar</b><br>
 • 🎓 I'm a <b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
 • 👨‍💻 I’m working as a <b> React Native Developer</b> at <a href="https://primefit.ae/" target="_blank"><b>Primefit</b></a>.<br>
-• 👨‍🏫 I’m a <b>Open-Source contributer</b>
+• 👨‍🏫 I’m a <b>Open-Source contributer<br>
 • 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
 
 </div>
@@ -34,8 +34,8 @@
 
 <div>
 <a href="https://github.com/EshanDhankani">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
