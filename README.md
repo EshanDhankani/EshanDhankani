@@ -47,7 +47,7 @@
 
   <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="react" width="35" height="35"/><br/>React / React Native</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="react" width="35" height="35"/><br/>React</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="35" height="35"/><br/>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="35" height="35"/><br/>TypeScript</td>
     <td align="center"><img src="https://www.svgrepo.com/show/330397/expo.svg" title="Expo" alt="expo" width="35" height="35"/><br/>Expo</td>
