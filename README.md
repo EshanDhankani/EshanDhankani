@@ -33,14 +33,7 @@
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-<div>
-<a href="https://github.com/EshanDhankani">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=that-prod-guy&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=that-prod-guy&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
-</div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
-##
 
   <!--Used Languages and tools!-->
   <h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>Tools and Languages </h3>
