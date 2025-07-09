@@ -21,8 +21,8 @@
 <!--Social Media Links!-->
 <div>
 <h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
-<a href = "https://www.instagram.com/eshandhankani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://linkedin.com/in/the-eshan-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/eshandhankani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
  
 </div>
