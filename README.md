@@ -32,12 +32,13 @@
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-<div>
-<a href="https://github.com/EshanDhankani">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800
-"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F40&hide_border=true&show_icons=true"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
 ##
