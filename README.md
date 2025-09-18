@@ -30,22 +30,31 @@
 
 ##
 
-<!--Github stats!-->
-<p> • <img src="Images/github-stats.gif" width="20">  <b> My GitHub Stats! </b> </p> <br>
 
-<div align="center">
-
-  <a href="https://github.com/EshanDhankani/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=ffffff,000000,2234AE&hide_border=true"/>
-  </a>
+<div align="left">
   
-  <a href="https://github.com/EshanDhankani/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=ffffff,000000,2234AE&hide_border=true"/>
-  </a>
+<!--Github stats!-->
+  <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
+<!--[![Daoud's github stats](https://github-readme-stats.vercel.app/api?username=daoud-hussain&count_private=true&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true)](https://github.com/Daoud-Hussain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoud-hussain&count_private=true&&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=0,000000,130F35&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/Daoud-Hussain) !-->
+
+<a href="https://github.com/thatt-server-guy">
+<!--   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=thatt-server-guy&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatt-server-guy&layout=compact&langs_count=7&title_color=ffffff&icon_color=2234AE&text_color=F0E68C&bg_color=ffffff,000000,130F35&hide_border=true&show_icons=true"/>
+ -->
+  
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=thatt-server-guy&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatt-server-guy&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true"/>
+  
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
+  <div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0969DA&width=500&lines=These+are+my+GitHub+stats..">
+   
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats.."> -->
+
+</div>
 
 ##
 
