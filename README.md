@@ -1,58 +1,58 @@
 <!--About myself!-->
-<div align="center" >  
-<img  src="Images/cover-photo.png" > </div>  </br> </a>
-<div align="center" >  
+<div align="center">  
+  <img src="Images/cover-photo.png"> 
+</div>  
+</br> 
+
+<div align="center">  
   <h1> Hello World
- <img src="Images/shake-hand.gif" width="35px"> </h1>
+    <img src="Images/shake-hand.gif" width="35px"> 
+  </h1>
 </div>
 
-<div align="left" >
-<img align="right" height="250" width="285" src="Images/coding-boy.gif" > <br>
-• 👨‍🎓 I’m <b>Eshan Kumar</b><br>
-• 🎓 I'm a <b> Computer Science </b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
-• 👨‍💻 I’m working as a <b> React Native Developer</b> at <a href="https://primefit.ae/" target="_blank"><b>Primefit</b></a>.<br>
-• 👨‍🏫 I’m a <b>Open-Source contributer<br>
-• 🌱 I’m available for <b>Full time work </b>(Onsite or Freelance). <br>
-
+<div align="left">
+  <img align="right" height="250" width="285" src="Images/coding-boy.gif"> <br>
+  • 👨‍🎓 I’m <b>Eshan Kumar</b><br>
+  • 🎓 I'm a <b>Computer Science</b> graduate from <a href="https://www.comsats.edu.pk/"><b>Comsats University Islamabad</b></a>.<br>
+  • 👨‍💻 I’m working as a <b>React Native Developer</b> at <a href="https://primefit.ae/" target="_blank"><b>Primefit</b></a>.<br>
+  • 👨‍🏫 I’m an <b>Open-Source Contributor</b><br>
+  • 🌱 I’m available for <b>Full time work</b> (Onsite or Freelance). <br>
 </div>
 
 ##
 
 <!--Social Media Links!-->
 <div>
-<h3> • <img src="Images/shakehand.gif" width="32">  <b> Lets Connect! </b> </h3> <br>
-<a href = "https://linkedin.com/in/the-eshan-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/eshandhankani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
- 
+  <h3> • <img src="Images/shakehand.gif" width="32">  <b> Let's Connect! </b> </h3> <br>
+  <a href="https://linkedin.com/in/the-eshan-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/eshandhankani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </div>
 
 ##
 
 <!--Github stats!-->
- <!--Github stats!-->
-<p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+<p> • <img src="Images/github-stats.gif" width="20">  <b> My GitHub Stats! </b> </p> <br>
 
 <div align="center">
 
   <a href="https://github.com/EshanDhankani/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=000000&hide_border=true"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=ffffff,000000,2234AE&hide_border=true"/>
   </a>
   
   <a href="https://github.com/EshanDhankani/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=000000&hide_border=true"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=ffffff,000000,2234AE&hide_border=true"/>
   </a>
 
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
+##
 
+<!--Used Languages and tools!-->
+<h3> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Tools and Languages </h3>
 
-  <!--Used Languages and tools!-->
-  <h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>Tools and Languages </h3>
-
-  <table>
+<table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="react" width="35" height="35"/><br/>React</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="35" height="35"/><br/>JavaScript</td>
@@ -82,4 +82,5 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws" width="35" height="35"/><br/>AWS</td>
   </tr>
 </table>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=61DBFB&width=500&lines=These+are+the+tools+that+I+am+working+with..">
