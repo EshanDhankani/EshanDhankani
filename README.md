@@ -30,16 +30,23 @@
 ##
 
 <!--Github stats!-->
-  <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+ <!--Github stats!-->
+<p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-| <a href="https://github.com/EshanDhankani/github-readme-stats">
-   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true"/>
-| ------------- | ------------- |
+<div align="center">
+
+  <a href="https://github.com/EshanDhankani/github-readme-stats">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=000000&hide_border=true"/>
+  </a>
+  
+  <a href="https://github.com/EshanDhankani/github-readme-stats">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanDhankani&layout=compact&langs_count=7&title_color=ffffff&icon_color=0969da&text_color=ffffff&bg_color=000000&hide_border=true"/>
+  </a>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+my+GitHub+stats..">
 
-##
 
 
   <!--Used Languages and tools!-->
