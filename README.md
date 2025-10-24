@@ -36,7 +36,7 @@
 <!--Github stats!-->
   <p> • <img src="Images/github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
 
-<a href="https://github.com/thatt-server-guy">
+<a href="https://github.com/EshanDhankani">
 
   
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EshanDhankani&title_color=ffffff&icon_color=0969da&text_color=fff&bg_color=ffffff,000000,2234AE&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
